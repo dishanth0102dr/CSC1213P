@@ -1,0 +1,17 @@
+Date : 12.03.2025
+Practical Number : 05
+Problem Specification : How to Reduce the code lines in Java Programming.
+Implementation : 
+class StudentDetails{
+	public static void main (String [] args){
+		System.out.println("First Name: Dishanth \nLast Name: Rajeenthiran \nAddress : Karaitheevu, Ampara ");
+	}
+}
+
+Output : 
+First Name: Dishanth
+Last Name: Rajeenthiran
+Address : Karaitheevu, Ampara
+
+Conclusion : We can Easy to Reduce the code lines to this coding.
+
